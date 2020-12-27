@@ -4,7 +4,7 @@ from discord.ext import commands
 
 client = discord.Client()
 client = commands.Bot(command_prefix="=")
-TOKEN = "Nzc4NjgyMDY5NTY3Nzk5NDA2.X7ViMA.iZsTmKnaLTY9m-YMeuWPizmTwqc"
+TOKEN = "put discord token here"
 
 
 @client.event
